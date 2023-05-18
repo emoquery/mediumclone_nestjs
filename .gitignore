@@ -3,7 +3,7 @@
 /node_modules
 
 .prettierrc
-/src/config
+src/config.ts
 
 # Logs
 logs
